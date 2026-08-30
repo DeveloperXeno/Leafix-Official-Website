@@ -39,7 +39,7 @@ function Home() {
       "",
       String(data.get("message") ?? ""),
     ].join("\n");
-    window.location.href = `mailto:hello@leafixservices.com?subject=${encodeURIComponent(
+    window.location.href = `mailto:pra0028@mckinnonsc.vic.edu.au?subject=${encodeURIComponent(
       "Garden enquiry",
     )}&body=${encodeURIComponent(body)}`;
     setSent(true);
