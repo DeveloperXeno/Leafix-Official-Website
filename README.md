@@ -1,102 +1,49 @@
-Leafix — Gardening Care for Melbourne’s East
-A calm, hands‑on gardening service for homeowners and small businesses across Melbourne’s eastern suburbs.
+# Leafix — Gardening Care for Melbourne’s East
 
-🌿 About Leafix
-Leafix is a small, practical gardening team based in Bentleigh East, helping gardens feel tidy, healthy and alive.
-We work with the rhythm of Melbourne’s seasons — pruning, planting, mulching and keeping outdoor spaces under control.
+A calm, practical gardening service helping homes and small businesses across Melbourne’s eastern suburbs.
 
-Our approach is simple:
-good tools, honest work, tidy finishes.
+## 🌿 About Leafix
 
-🌱 What We Do
-Garden tidy‑ups
-A reset for overgrown beds, tired edges and outdoor spaces that need attention.
+Based in Bentleigh East, Leafix keeps gardens healthy, tidy and thriving through Melbourne’s changing seasons.
+
+**Good tools. Honest work. Tidy finishes.**
+
+## 🌱 Our Services
+
+**Garden Tidy-Ups**
 Pruning · Weeding · Edging
 
-Garden care (ongoing)
-Regular visits to keep things growing well through Melbourne’s changing weather.
-Seasonal care · Mulch · Planting
+**Ongoing Garden Care**
+Seasonal care · Mulching · Planting
 
-Small business gardens
-Courtyards, shopfronts and workplace entries kept neat and welcoming.
-Upkeep · Entries · Courtyards
+**Small Business Gardens**
+Courtyards · Shopfronts · Workplace entries
 
-🌳 Our Process
-Say hello  
-Tell us what’s happening in your garden and what you’d like to change.
+## 🌳 Our Process
 
-Walk it through  
-We look properly, talk honestly, and shape a practical plan.
+**1. Say hello** — Tell us what your garden needs.
+**2. Walk it through** — We assess the space and create a practical plan.
+**3. Make it feel alive** — We get to work and leave it tidy.
 
-Make it feel alive  
-Our small team gets stuck in — sleeves rolled up, tidy finish guaranteed.
+## 📍 Service Area
 
-🌼 Service Areas
-Bentleigh East · Camberwell · Surrey Hills · Box Hill · Glen Iris · Burwood · Ashwood · Mount Waverley
-(More suburbs added as we grow.)
+**Bentleigh East & surrounding eastern suburbs**
 
-🌾 Our Story
-Leafix grew from a simple idea:
-looking after a garden is part of looking after a home.
+## 📬 Get in Touch
 
-We’re a team of three who like early starts, sharp secateurs and the moment a messy corner starts making sense.
-Local to Melbourne’s east, thoughtful by default, season‑led, and straight‑up in how we work.
+**Email:** [hello@leafixservices.com](mailto:hello@leafixservices.com)
 
-📬 Job Enquiries
-Whether you need a tidy‑up or regular care, we’re here to help.
-
-Email: hello@leafixservices.com
 A friendly chat, first — tell us what’s growing on.
 
+---
 
-🌱 What We Do
-Garden tidy‑ups  
-A considered reset for overgrown beds, tired edges and outdoor spaces that have got away from you.
-Pruning · weeding · edging
+### 🛠️ Website
 
-Garden care  
-Regular, dependable visits that keep things growing well through Melbourne’s changeable seasons.
-Seasonal care · mulch · planting
+Built and deployed by **Mr Xeno**
+Eco-modern · Minimal · Soft green design
 
-Small business gardens  
-Welcoming first impressions for studios, shopfronts and small workplaces.
-Courtyards · entries · upkeep
+**Development enquiries:** [Developerxeno@outlook.com](mailto:Developerxeno@outlook.com)
 
-🌳 How It Works
-Say hello  
-Tell us what’s happening in your garden and what you’d like to change.
+### 📄 Copyright
 
-Walk it through  
-We look properly, talk honestly and shape a practical plan around your space.
-
-Make it feel alive  
-Our small team gets stuck in with care, good tools and a tidy finish you can feel straight away.
-
-📍 Service Areas
-We work across Melbourne’s eastern suburbs, including:
-Bentleigh East · Camberwell · Surrey Hills · Box Hill · Glen Iris · Burwood · Ashwood · Mount Waverley
-
-📬 Job Enquiries
-Whether you need a tidy‑up, regular care or a fresh set of eyes, reach out anytime.
-
-Email: hello@leafixservices.com
-A friendly chat, first — tell us what’s growing on.
-
-🛠️ Tech & Build
-This website is built using a clean, minimal theme inspired by Leafix’s brand identity.
-
-Static site
-
-Eco‑modern design
-
-Soft green palette
-
-Built and deployed by Mr Xeno
-
-📄 License
-This project is for Leafix Gardening, Melbourne VIC.
-Content and branding © 2026 Leafix Gardening.
-
-🌼 Credits
-Built by Mr Xeno  
-For Leafix
+Content and branding © 2026 Leafix Gardening. All rights reserved.
