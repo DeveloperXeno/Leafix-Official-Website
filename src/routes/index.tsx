@@ -597,6 +597,61 @@ function Home() {
               </div>
             </div>
           </section>
+          <section
+            id="why-us"
+            className="bg-[#f6f1e7] px-5 py-24 sm:px-8 sm:py-32 lg:px-12"
+          >
+            <div className="mx-auto max-w-[1380px]">
+              <div className="grid gap-14 lg:grid-cols-[.7fr_1.3fr] lg:gap-28">
+                <div>
+                  <p className="mb-4 text-[0.68rem] font-bold uppercase tracking-[0.18em] text-[#bf684d]">
+                    Why choose us
+                  </p>
+                  <h2 className="max-w-md font-display text-[clamp(2.8rem,5.2vw,5.2rem)] leading-[.94] tracking-[-.06em] text-[#2d2230]">
+                    The right team for the job.
+                  </h2>
+                </div>
+                <div className="grid gap-8 border-t border-[#2d2230]/15 pt-7 sm:grid-cols-2">
+                  <div>
+                    <p className="font-display text-2xl tracking-[-.04em] text-[#2d2230]">
+                      Local focus
+                    </p>
+                    <p className="mt-2 max-w-sm text-sm leading-6 text-[#52634b]">
+                      We live and work in Bentleigh East, so we know the soil, the seasons and the
+                      streets.
+                    </p>
+                  </div>
+                  <div>
+                    <p className="font-display text-2xl tracking-[-.04em] text-[#2d2230]">
+                      Honest pricing
+                    </p>
+                    <p className="mt-2 max-w-sm text-sm leading-6 text-[#52634b]">
+                      No hidden fees. We can quote before the job or after — whatever feels right for
+                      you.
+                    </p>
+                  </div>
+                  <div>
+                    <p className="font-display text-2xl tracking-[-.04em] text-[#2d2230]">
+                      Tidy finish
+                    </p>
+                    <p className="mt-2 max-w-sm text-sm leading-6 text-[#52634b]">
+                      We leave your garden looking cared for, not just cut back. Every visit ends
+                      with a clean edge.
+                    </p>
+                  </div>
+                  <div>
+                    <p className="font-display text-2xl tracking-[-.04em] text-[#2d2230]">
+                      Small team, big care
+                    </p>
+                    <p className="mt-2 max-w-sm text-sm leading-6 text-[#52634b]">
+                      The same friendly faces every time. You are never handed off to a crew you do
+                      not know.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
           <section id="contact" className="bg-[#bf684d] px-5 py-24 sm:px-8 sm:py-32 lg:px-12">
             <div className="mx-auto max-w-[1380px]">
               <div className="grid gap-14 lg:grid-cols-[.8fr_1.2fr] lg:gap-24">
