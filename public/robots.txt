@@ -10,5 +10,26 @@ Allow: /
 User-agent: facebookexternalhit
 Allow: /
 
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ChatGPT-User-Agent
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
 User-agent: *
 Allow: /
+
+Sitemap: https://leafixofficial.vercel.app/sitemap.xml
+Sitemap: https://leafixservices.com/sitemap.xml
