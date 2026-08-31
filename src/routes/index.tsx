@@ -837,7 +837,14 @@ function Home() {
           <div className="mx-auto mt-10 flex max-w-[1380px] flex-col gap-3 border-t border-[#f6f1e7]/15 pt-5 text-[0.65rem] uppercase tracking-[.12em] text-[#f6f1e7]/40 sm:flex-row sm:items-center sm:justify-between">
             <div className="flex flex-wrap gap-x-5 gap-y-2">
               <span>© 2026 Leafix Gardening</span>
-              <span>Built by Mr Xeno</span>
+              <a
+                href="https://github.com/DeveloperXeno"
+                target="_blank"
+                rel="noreferrer"
+                className="transition-colors hover:text-[#c8dc53]"
+              >
+                Built by Mr Xeno
+              </a>
             </div>
             <div className="flex flex-wrap gap-x-5 gap-y-2 sm:justify-end">
               <a
