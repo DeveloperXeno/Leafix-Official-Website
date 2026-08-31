@@ -1,4 +1,4 @@
-# Leafix — 
+# Leafix — Make room for life.
 
 A calm, practical gardening service helping homes and small businesses across Melbourne’s eastern suburbs.
 
@@ -47,3 +47,4 @@ Eco-modern · Minimal · Soft green design
 ### 📄 Copyright
 
 Content and branding © 2026 Leafix Gardening. All rights reserved.
+Built by Mr Xeno for the Leafix Gardening Group.
