@@ -1,4 +1,4 @@
-# Leafix — Gardening Care for Melbourne’s East
+# Leafix — 
 
 A calm, practical gardening service helping homes and small businesses across Melbourne’s eastern suburbs.
 
