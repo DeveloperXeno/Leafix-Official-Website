@@ -25,11 +25,9 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 User-agent: *
 Allow: /
 
 Sitemap: https://leafixofficial.vercel.app/sitemap.xml
 Sitemap: https://leafixservices.com/sitemap.xml
+Sitemap: https://leafix.co/sitemap.xml
