@@ -47,4 +47,5 @@ Eco-modern · Minimal · Soft green design
 ### 📄 Copyright
 
 Content and branding © 2026 Leafix Gardening. All rights reserved.
-Built by Mr Xeno for the Leafix Gardening Group.
+Built by Mr Xeno for the Leafix Gardening Group own by Rohan.
+
